@@ -1,0 +1,1 @@
+# docker-rust-nightly-sscache
